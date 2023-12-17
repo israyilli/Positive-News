@@ -1,0 +1,34 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bar {
+  display: flex;
+  gap: 200px;
+  width: 100%;
+  height: 20px;
+}
+
+.commonNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.words {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+.words li {
+  text-decoration: none;
+  color: black;
+}
+
+.words a {
+  text-decoration: none;
+  color: black;
+} */
